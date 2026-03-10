@@ -1,0 +1,42 @@
+Input file: /home/david/su2_3d_lgt/runs/large_loops_L8_beta_5p0/wilson_loops.csv
+
+default_allR
+  fit_Rs     = [1, 2, 3]
+  windows    = {1: [2, 3], 2: [2, 3], 3: [2, 3]}
+  sigma      = 0.138602426928 +/- 0.002078892097
+  V0         = 0.068565639182 +/- 0.002468469421
+  chi2/dof   = 9.931965724094
+
+late_only_allR
+  fit_Rs     = [1, 2, 3]
+  windows    = {1: [3], 2: [3], 3: [3]}
+  sigma      = 0.134620083892 +/- 0.003524698608
+  V0         = 0.071687156011 +/- 0.003976069203
+  chi2/dof   = 3.447401536444
+
+R1_123_R23_late
+  fit_Rs     = [1, 2, 3]
+  windows    = {1: [1, 2, 3], 2: [2, 3], 3: [2, 3]}
+  sigma      = 0.136884837391 +/- 0.002043107628
+  V0         = 0.072620525521 +/- 0.002295919845
+  chi2/dof   = 8.119931443742
+
+default_R23_only
+  fit_Rs     = [2, 3]
+  windows    = {1: [2, 3], 2: [2, 3], 3: [2, 3]}
+  sigma      = 0.120298577350 +/- 0.006168823268
+  V0         = 0.111777377500 +/- 0.013931900415
+  chi2/dof   = nan
+
+late_R23_only
+  fit_Rs     = [2, 3]
+  windows    = {1: [3], 2: [3], 3: [3]}
+  sigma      = 0.115776235929 +/- 0.010743644295
+  V0         = 0.115812237762 +/- 0.024095413509
+  chi2/dof   = nan
+
+Recommended summary
+  central sigma         = 0.138602426928
+  statistical error     = 0.002078892097
+  systematic half-range = 0.011413095499
+  sigma range           = [0.115776235929, 0.138602426928]

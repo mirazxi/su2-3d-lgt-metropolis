@@ -1,0 +1,8 @@
+Fit model: V(R) = V0 + sigma * R
+Input file: /home/david/su2_3d_lgt/runs/large_loops_L8_beta_5p0/V_of_R_plateau.csv
+
+V0       = 0.068565639182 +/- 0.002468469421
+sigma    = 0.138602426928 +/- 0.002078892097
+chi2     = 9.931965724094
+dof      = 1
+chi2/dof = 9.931965724094
