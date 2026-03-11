@@ -13,6 +13,9 @@ CASES = [
     "scaling_L10_beta_4p5",
     "scaling_L12_beta_5p0",
     "scaling_L14_beta_5p5",
+    "volumecheck_L14_beta_5p0",
+    "volumecheck_L16_beta_5p0",
+    "volumecheck_L16_beta_5p5",
 ]
 
 BLOCK_SIZE = 32
@@ -194,3 +197,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+"volumecheck_L14_beta_5p0",

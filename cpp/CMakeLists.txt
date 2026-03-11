@@ -18,3 +18,11 @@ add_executable(scaling_smear_run
     src/main_scaling_smear.cpp
 )
 target_include_directories(scaling_smear_run PRIVATE src)
+add_executable(volume_check_beta5_run
+    src/main_volume_check_beta5.cpp
+)
+target_include_directories(volume_check_beta5_run PRIVATE src)
+add_executable(volume_check_beta55_run
+    src/main_volume_check_beta55.cpp
+)
+target_include_directories(volume_check_beta55_run PRIVATE src)
