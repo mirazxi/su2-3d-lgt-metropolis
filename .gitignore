@@ -1,10 +1,18 @@
-
+# Python
 .venv/
 __pycache__/
 *.pyc
 
-.venv/
-__pycache__/
-*.pyc
-
+# CMake / build artifacts
 cpp/build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Optional: ignore bulky raw run outputs if you want a cleaner repo
+# runs/*/plaquette.csv
+# runs/*/wilson_loops_raw.csv
+# runs/*/wilson_loops_ape.csv
+# runs/*/veff_raw.csv
+# runs/*/veff_ape.csv
