@@ -16,3 +16,8 @@ cmake_install.cmake
 # runs/*/wilson_loops_ape.csv
 # runs/*/veff_raw.csv
 # runs/*/veff_ape.csv
+runs/*/plaquette.csv
+runs/*/veff_ape.csv
+runs/*/veff_raw.csv
+runs/*/wilson_loops_ape.csv
+runs/*/wilson_loops_raw.csv
