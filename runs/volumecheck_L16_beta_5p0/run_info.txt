@@ -1,0 +1,13 @@
+L = 16
+beta = 5.000000000000
+proposal_size = 0.200000000000
+n_sweeps = 30000
+thermal_cut = 4000
+measure_every = 40
+APE_steps = 12
+APE_alpha = 0.500000000000
+R_max = 5
+T_max = 6
+time_direction = 2
+raw_loops_file = wilson_loops_raw.csv
+ape_loops_file = wilson_loops_ape.csv
