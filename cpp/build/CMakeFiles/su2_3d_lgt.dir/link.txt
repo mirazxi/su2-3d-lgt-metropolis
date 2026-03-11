@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/su2_3d_lgt.dir/src/main.cpp.o -o su2_3d_lgt 

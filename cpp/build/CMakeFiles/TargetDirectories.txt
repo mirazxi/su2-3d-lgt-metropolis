@@ -1,5 +1,0 @@
-/home/david/su2_3d_lgt/cpp/build/CMakeFiles/su2_3d_lgt.dir
-/home/david/su2_3d_lgt/cpp/build/CMakeFiles/larger_loops_run.dir
-/home/david/su2_3d_lgt/cpp/build/CMakeFiles/scaling_smear_run.dir
-/home/david/su2_3d_lgt/cpp/build/CMakeFiles/edit_cache.dir
-/home/david/su2_3d_lgt/cpp/build/CMakeFiles/rebuild_cache.dir
