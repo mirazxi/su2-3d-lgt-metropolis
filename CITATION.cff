@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "su2-3d-lgt-metropolis"
+message: "If you use this repository, please cite the associated paper and this code repository."
+type: software
+authors:
+  - family-names: "MD Mizanur Rahman"
+    given-names: "Miraz"
+repository-code: "https://github.com/mirazxi/su2-3d-lgt-metropolis"
+license: MIT
+abstract: >
+  Metropolis Monte Carlo study of three-dimensional SU(2) lattice gauge theory
+  with plaquette measurements, Wilson loops, APE smearing, effective-potential
+  analysis, Cornell-type fits, and finite-volume stability checks.
+keywords:
+  - lattice gauge theory
+  - SU(2)
+  - Monte Carlo
+  - Wilson loops
+  - APE smearing
+  - static potential
