@@ -1,0 +1,26 @@
+{
+  "title": "su2-3d-lgt-metropolis: finite-volume stability and benchmark release for 3D SU(2) lattice gauge theory",
+  "version": "v1.0.1",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Rahman, MD Mizanur",
+      "affiliation": "Yangzhou University",
+      "type": "Researcher"
+    }
+  ],
+  "keywords": [
+    "lattice gauge theory",
+    "SU(2)",
+    "Monte Carlo",
+    "Wilson loops",
+    "APE smearing",
+    "static potential",
+    "string tension",
+    "finite-volume stability"
+  ],
+  "description": "Research software release for controlled static-potential extraction in three-dimensional SU(2) lattice gauge theory with the Wilson action. Includes C++ simulation code, Python analysis scripts, and benchmark outputs for finite-volume stability and scaling analyses."
+}
