@@ -1,6 +1,6 @@
 {
   "title": "su2-3d-lgt-metropolis: finite-volume stability and benchmark release for 3D SU(2) lattice gauge theory",
-  "version": "v1.0.1",
+  "version": "v1.1.1",
   "upload_type": "software",
   "access_right": "open",
   "license": "mit",
