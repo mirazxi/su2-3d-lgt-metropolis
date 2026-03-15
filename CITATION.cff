@@ -3,8 +3,8 @@ title: "su2-3d-lgt-metropolis"
 message: "If you use this repository, please cite the associated paper and this code repository."
 type: software
 authors:
-  - family-names: "MD Mizanur Rahman"
-    given-names: "Miraz"
+  - family-names: "Miraz"
+    given-names: "MD Mizanur Rahman"
 repository-code: "https://github.com/mirazxi/su2-3d-lgt-metropolis"
 license: MIT
 abstract: >
