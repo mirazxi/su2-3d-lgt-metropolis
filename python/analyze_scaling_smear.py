@@ -13,6 +13,8 @@ CASES = [
     "scaling_L10_beta_4p5",
     "scaling_L12_beta_5p0",
     "scaling_L14_beta_5p5",
+    "scaling_L16_beta_6p0",
+    "scaling_L18_beta_6p0",
     "volumecheck_L14_beta_5p0",
     "volumecheck_L16_beta_5p0",
     "volumecheck_L16_beta_5p5",

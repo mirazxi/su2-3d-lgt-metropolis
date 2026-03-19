@@ -21,3 +21,12 @@ runs/*/veff_ape.csv
 runs/*/veff_raw.csv
 runs/*/wilson_loops_ape.csv
 runs/*/wilson_loops_raw.csv
+.venv/
+__pycache__/
+*.pyc
+*.bak
+cpp/build/
+runs/scaling_L16_beta_6p0/
+runs/scaling_L18_beta_6p0/
+runs/scaling_L20_beta_6p5/
+runs/scaling_L22_beta_6p5/

@@ -71,8 +71,8 @@ void run_case(
     int n_ape,
     double alpha_ape
 ) {
-    const int L = rc.L;
-    const double beta = rc.beta;
+    const int L = 22;
+    const double beta = 6.5;
 
     const int R_max = std::min(5, L / 2);
     const int T_max = std::min(6, L / 2);
@@ -82,7 +82,7 @@ void run_case(
 
     RNG rng(seed);
 
-    fs::path out_dir = fs::path("../../runs") / case_label(L, beta);
+    fs::path out_dir = fs::path("../runs") / case_label(L, beta);
     fs::create_directories(out_dir);
 
     std::ofstream out_plaq(out_dir / "plaquette.csv");
