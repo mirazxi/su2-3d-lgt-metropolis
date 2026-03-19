@@ -1,9 +1,6 @@
 # su2-3d-lgt-metropolis
 
 Metropolis Monte Carlo study of three-dimensional SU(2) lattice gauge theory with plaquette measurements, Wilson loops, APE smearing, effective-potential analysis, Cornell-type fits, scaling trends, finite-volume stability checks, and a continuum-facing extrapolation of the string tension.
-# su2-3d-lgt-metropolis
-
-Metropolis Monte Carlo study of three-dimensional SU(2) lattice gauge theory with plaquette measurements, Wilson loops, APE smearing, effective-potential analysis, Cornell-type fits, scaling trends, finite-volume stability checks, and a continuum-facing extrapolation of the string tension.
 
 ## Reproducibility
 
