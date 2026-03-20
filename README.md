@@ -53,7 +53,7 @@ mkdir build
 cd build
 cmake ..
 make
-Then run the relevant production executable from `cpp/build/`. For example:
+Then run the relevant production executable from `cpp/build/`.
 
 ```bash
 ./scaling_smear_run
